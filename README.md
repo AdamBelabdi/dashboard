@@ -10,7 +10,7 @@ React Dashboard is a simple and sleek dashboard application built using React Na
 
 ## Installation
 
-1. Clone the repository: [`git clone https://github.com/AdamBelabdi/dashboard.git`](https://github.com/AdamBelabdi/dashboard.git)
+1. Clone the repository: [`git clone https://github.com/AdamBelabdi/dashboard`](https://github.com/AdamBelabdi/dashboard)
 2. Navigate to the project directory: `cd dashboard`
 3. Install the dependencies: `npm install`
 
