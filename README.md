@@ -19,9 +19,15 @@ React Dashboard is a simple and sleek dashboard application built using React Na
 1. Start the application: `npm start` or `expo start`.
 2. Launch the app on a connected emulator or physical device using the Expo Go app.
 
+## Preview
+
+![Home page](https://i.postimg.cc/Kjjc6s6r/1.png "Home Page")
+![Speedometer](https://i.postimg.cc/9XgQdC9x/2.png "Speedometer")
+![Timer](https://i.postimg.cc/gj7cmHd9/3.png "Timer")
+
 ## Contributing
 
-Contributions are always welcome ! If you'd like to contribute to React Dashboard, please follow these steps:
+Contributions are always welcome! If you'd like to contribute to React Dashboard, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/my-feature`
