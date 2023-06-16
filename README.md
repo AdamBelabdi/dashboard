@@ -6,7 +6,7 @@ React Dashboard is a simple and sleek dashboard application built using React Na
 
 - **Speedometer**: Monitor your velocity in real-time, whether you're on a road trip, cycling adventure, or simply curious about your speed.
 
-- **Timer**: Stay organized and efficient by timing your workouts, cooking sessions, or work tasks with the integrated timer feature.
+- **Timer**: Stay organized and efficient by timing your drive with the integrated timer feature.
 
 ## Installation
 
